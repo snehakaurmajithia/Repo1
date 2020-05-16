@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 new changes for fetch command 
+=======
+git hub changes for this file for fetch command 
+>>>>>>> d3996ff33cc9fc3ee9bb89003809be5667217f2f
 
 
 yum install git
