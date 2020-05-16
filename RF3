@@ -1,0 +1,54 @@
+yum install git
+apt-get install ubuntu
+apt-get install git
+git --version
+2.23
+yum install git -y
+Creating repository
+git init repo1
+ls-lrta
+
+From M MUNIRAJA to Everyone:  10:13 AM
+to create a repository
+git init reponame
+git add file
+toad th file to the staging area
+git commit -m "message"
+to save the changes to the repo
+ls -lrt
+From M MUNIRAJA to Everyone:  10:35 AM
+git checkout filename
+git restore filename
+to discard the local changes
+git reset HEAD filename
+To unstage
+git log
+to see the commit history
+git log --oneline
+
+Git commit --amend
+
+To unstage
+git log
+to see the commit history
+git log --oneline
+git revert <cid>
+From M MUNIRAJA to Everyone:  10:45 AM
+git show cid
+git show filename
+
+git config --global user.name " first last"
+git config --global user.email" first last"
+
+git rm filename
+ git stash to save your local changes
+
+git add fiile file2 multiple files to the staging area 
+git add .
+git stash apply
+git stash drop delete all the stash files 
+git stash pop delte one by one stash files
+git stash show show the stash files
+
+
+
